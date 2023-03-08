@@ -1,0 +1,2 @@
+#!/bin/bsah
+mv [[:upper:]]* /tmp/u
